@@ -50,8 +50,8 @@ int main()
 
 	// two dimensional array
 	char board[rows][cols] = { {' ', ' ', ' '},
-							   {' ', ' ', ' '},
-							   {' ', ' ', ' '}};
+				   {' ', ' ', ' '},
+				   {' ', ' ', ' '}};
 
 	// Show title and instructions
 	state = welcomeMenu();
